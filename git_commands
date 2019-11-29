@@ -1,0 +1,9 @@
+all these commands should be written in terminal or git bash.
+
+git command for cloning repository: git clone https://github.com/oanaale95/TL-Seeder.git
+git command for checking status (see which files were added or modified): git status
+git command for adding a file, where 'filename' is the name of the file: git add filename
+git command for commiting a change (the message is between quotes ""): git commit -m "put a message with the changes you did here"
+git command for pushing changes to the repository (branch name is the name of your branch): git push -u origin branch_name
+git command for pulling latest changes from repository: git pull
+git command for switching to another branch (specify the name of the branch in place of 'other_branch'): git checkout other_branch
