@@ -7,3 +7,5 @@ git command for commiting a change (the message is between quotes ""): git commi
 git command for pushing changes to the repository (branch name is the name of your branch): git push -u origin branch_name
 git command for pulling latest changes from repository: git pull
 git command for switching to another branch (specify the name of the branch in place of 'other_branch'): git checkout other_branch
+git command for copying a file from a branch A to a branch B (run this command from branch B): git checkout branch_A filename
+git command for stashing (forgetting) changes to files: git stash 
